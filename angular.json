@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "typing-challenge"
+    }
+  },
+  "defaultProject": "typing-challenge",
+  "cli": {
+    "analytics": false
+  }
 }
